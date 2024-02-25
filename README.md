@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import quinary4d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-quinary4d@deno/mod.js';
+import quinary4d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-quinary4d@v0.2.1-deno/mod.js';
 ```
 
 #### quinary4d( arrays, shape, fcn )
@@ -99,7 +99,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import filled4dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled4d-by@deno/mod.js';
 import zeros4d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros4d@deno/mod.js';
 import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-add5@deno/mod.js';
-import quinary4d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-quinary4d@deno/mod.js';
+import quinary4d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-quinary4d@v0.2.1-deno/mod.js';
 
 var shape = [ 1, 3, 3, 3 ];
 
